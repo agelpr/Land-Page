@@ -1,0 +1,35 @@
+#logo{
+	width: 20%;
+}
+.navbar{
+	/*box-shadow: 2px 2px 5px #000;*/
+	opacity: .9;
+}
+.navbar .nav-item .nav-link{
+	color: #fff;
+}
+.main-header{
+	position: relative;
+	background: url(../img/background.jpg);
+	background-size: cover;
+	height: 700px;
+}
+.background-overlay{
+	position: absolute;
+	background-color: rgb(72, 52, 212,.7);
+	height: 100%;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.form-control, .btn{
+	border-radius: 0;
+}
+.team{
+	background-color: #4834d4;
+}
+footer{
+	background-color: #4834d4;
+	color: #FFF;
+	text-align: center;
+}
